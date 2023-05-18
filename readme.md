@@ -1,4 +1,4 @@
-# Hackerearch HSBC ML Hackathon submission #
+# Hackerearth HSBC ML Hackathon submission #
 
 This repository is intended for learning purposes. The code was written by me as a beginner in this field. Feel free to use it (if you are a beginner) or improve it (pro, ofcourse).
 
@@ -7,3 +7,8 @@ This repository is intended for learning purposes. The code was written by me as
 - No information available for any of the variables in the datasets.
 - You can use any model you want, don't hesitate to experiment.
 - The actual output is not available as of now. 
+
+## Codefile information ##
+
+- The final model is derived in the model.ipynb notebook.
+- Use model_train_helper.ipynb for getting a rough idea about clustering and creating additional features.
